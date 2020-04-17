@@ -11,4 +11,6 @@ CLI Python script for making images look like cross-stitch patterns.
 ![https://pbs.twimg.com/media/EN0HitZVUAALVgO?format=png&name=small](https://pbs.twimg.com/media/EN0HitZVUAALVgO?format=png&name=small)
 
 # Usage
-To-Do
+```
+python3 cross_stitch.py -i input_file.jpg -o output_file.png
+```
